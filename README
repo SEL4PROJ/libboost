@@ -1,0 +1,6 @@
+This is a partial copy of the 'boost' library available at http://www.boost.org
+The license for boost is in LICENSE_1_0.txt, or if missing is available at
+http://www.boost.org/LICENSE_1_0.txt
+
+Currently this is a stripped down copy with just the preprocessor headers
+included. More of boost can be added as needed.
